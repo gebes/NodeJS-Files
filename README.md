@@ -1,2 +1,5 @@
 # NodeJS-Files
- Simple 📃File Demo made in JS
+ This simple script loads a text file and prints it out
+
+## What did I learn?
+* How to work with files in NodeJS
